@@ -1,7 +1,7 @@
 # iBBBP-EDL: An efficient ensemble deep Learning framework for blood-brain barrier permeability prediction
 #### T. Vinh, Q. H. Trinh, L. Nguyen, P-U. Nguyen-Hoang, T-H Nguyen-Vo, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
 
-![alt text](https://github.com/mldlproject/2022-iGCR-ACP/blob/main/iBBBP_EDL_abs.svg)
+![alt text](https://github.com/mldlproject/2023-iBBBP-EDL/blob/main/iBBBP_EDL_abs.svg)
 
 ## Motivation
 As a highly protective biological structure, the blood-brain barrier prevents the uncontrolled passage of
